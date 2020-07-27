@@ -1,0 +1,94 @@
+nav{
+    position: absolute;
+    right: 10%;
+}
+
+.html{
+    position: absolute;
+    left: 10%;
+}
+
+h1{
+    color: rgb(56, 40, 40);
+    position: absolute;
+    left: 40%;
+    bottom: 50%;
+}
+ 
+h4{
+    color: white;
+    position: absolute;
+    left: 33%;
+    bottom: 35%;
+}
+
+div > a{
+    position: absolute;
+    left: 50%;
+    bottom: 25%;
+    border: solid;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
+h5{
+    color: white;
+    position: absolute;
+    left: 50%;
+    bottom: 30%;
+}
+.firstbox > img{
+    background-color: blanchedalmond;
+    width: 1350px;
+    height: 750px;    
+}
+
+.secondbox{
+    background-color: tomato;
+    display: inline-block;
+    width: 1350px;
+    height: 300px;  
+}
+
+h3{
+    position: absolute;
+    left: 40%;
+    color: white;
+    top: 130%;
+}
+
+div > p{
+    position: absolute;
+    left: 38%;
+    color: white;
+    top: 135%;
+}
+
+.thirdbox{
+    background-color: rgb(231, 209, 205);
+    display: inline-block;
+    width: 1350px;
+    height: 300px; 
+    
+}
+
+.fouthbox > img{
+    width: 33.1321%;
+    object-fit: fill;
+    float: left;
+}
+
+.fifthbox{
+    background-color: rgb(29, 28, 28);
+    display: inline-block;
+    width: 1350px;
+    height: 250px; 
+}
+
+.sixthbox{
+    background-color: rgb(231, 209, 205);
+    display: inline-block;
+    width: 1350px;
+    height: 300px; 
+}
